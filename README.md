@@ -6,9 +6,9 @@ Named-entity recognition is a subtask of information extraction that seeks to lo
 In this project, I have built and train a bidirectional LSTM neural network model to recognize named entities in text data.
 
 Here's an example of how NER works:
-![NER working] (https://drive.google.com/file/d/16vCiPZ2U2Vx1zCAa8CRYMQpIIdEAXEHF/view?usp=sharing)
+![NER working](https://drive.google.com/file/d/16vCiPZ2U2Vx1zCAa8CRYMQpIIdEAXEHF/view?usp=sharing)
 
-The dataset for the project is taken from kaggle : https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus#ner_dataset.csv
+The dataset for the project is taken from kaggle:https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus#ner_dataset.csv
 
 _Check out the comments in the code for more details_
 _For any suggestions/queries feel free to email me at eshikamahajan21@gmail.com._
