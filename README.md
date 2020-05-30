@@ -1,12 +1,13 @@
 # Named Entity Recogntition (NER)
-Named-entity recognition is a subtask of information extraction that seeks to locate and classify named entity mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc
+Named-entity recognition is a subtask of information extraction that seeks to locate and classify named entity mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
 
-![NER](https://drive.google.com/file/d/1RqJ6DbnGYqjUdH0XSyf0IIgdstgI0GSK/view?usp=sharing)
+![](https://monkeylearn.com/blog/wp-content/uploads/2020/03/image1-5.png)
+
 
 In this project, I have built and train a bidirectional LSTM neural network model to recognize named entities in text data.
 
 Here's an example of how NER works:
-![NER working](https://drive.google.com/file/d/16vCiPZ2U2Vx1zCAa8CRYMQpIIdEAXEHF/view?usp=sharing)
+![](https://monkeylearn.com/blog/wp-content/uploads/2020/03/Example.png)
 
 The dataset for the project is taken from kaggle:https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus#ner_dataset.csv
 
